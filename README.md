@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-API Uses: Jquery, Javascript, HTML, CSS
+Uses: Javascript, HTML, CSS
 
 
 1. User Story: I can click a button to show me a new random quote.
