@@ -1,0 +1,55 @@
+body {
+  background-image: url("http://di9.in/walls/albert_einstein-HD.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h1, p {
+      font-family: verdana;
+      text-align: center;
+      color: white;
+    }
+
+
+#main {
+  padding: 20px 40px;
+  border: white 1px solid;
+  width: 400px;
+
+  /*shadow effect*/
+.effect1{
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+}
+
+}
+
+#quote {
+  color: white;
+  font-family: verdana;
+  text-align: center;
+  font-size: 20px;
+}
+
+#author {
+  color: white;
+  font-family: cursive;
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+#button1 {
+  text-align: center;
+
+}
+
+#btn1 {
+   font-size: 14px;
+   margin-top: 20px;
+   padding: 10px;
+   border-radius: 5px;
+
+}
